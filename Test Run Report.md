@@ -85,7 +85,5 @@ No blockers were found. All bugs can be fixed in the next sprint.
 **Tools:** Chrome DevTools, Lighthouse reporting
 
 
-Dodati Exit criteria
 
-Da blokere nisu nadjene i da sve bugove mogu biti sredjene u narednim sprintovima
 
