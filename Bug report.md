@@ -1,4 +1,3 @@
-﻿Spremno za git
 Dzenis Selmanovic - www.naucidizajin.com - Home Page
 
 Bug 1
