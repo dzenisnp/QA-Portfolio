@@ -19,10 +19,10 @@ Testing the Home Page section involved assessing various aspects, including func
 ## Reports
 
 In this repository, you can find the following reports:
-- [Test Cases](test-cases.md)
-- [Bug Reports](bug-report.md)
+- [Test Cases](test cases.md)
+- [Bug Reports](bug report.md)
 - [Improvements](improvements.md)
-- [Test Run Report](test-run-report.md)
+- [Test Run Report](test run report.md)
 
 ## How to Contribute
 
