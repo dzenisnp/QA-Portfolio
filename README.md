@@ -28,4 +28,4 @@ In this repository, you can find the following reports:
 
 If you have suggestions or wish to contribute to this project, please feel free to open an Issue or a Pull Request. Your feedback is invaluable for the continued improvement of this project.
 
-Thank you for visiting my GitHub portfolio and reviewing my work on the www.naucidizajin.com project!
+Thank you for visiting my GitHub portfolio and reviewing my work on the www.naucidizajn.com project!
