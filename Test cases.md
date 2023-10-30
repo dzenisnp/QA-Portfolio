@@ -1,4 +1,4 @@
-﻿**Dzenis Selmanovic - Test cases - [www.naucijdizajin.com**](http://www.naucijdizajin.com)**
+﻿**Dzenis Selmanovic - Test cases - [www.naucijdizajn.com**](http://www.naucijdizajn.com)**
 
 **Pairwise testing**
 
@@ -13,7 +13,7 @@
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Access for three months” and “In installments” ||The buttons are labeled.|
@@ -41,7 +41,7 @@
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Access for three months” and “At once” ||The buttons are labeled.|
@@ -68,7 +68,7 @@
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Access for three months” and “In installments” ||The buttons are labeled.|
@@ -98,7 +98,7 @@
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Lifetime access” and “In installments” ||The buttons are labeled.|
@@ -126,7 +126,7 @@ meni ovo skoro kao prethodni kejs
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Lifetime access” and “At once” ||The buttons are labeled.|
@@ -154,7 +154,7 @@ meni ovo skoro kao prethodni kejs
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Move the mouse cursor to the navigation menu in the section “Kursevi”.||The offered courses and packages will appear.|
 |<p>Click on “Photoshop + UI UX 2.0”</p><p></p>||The user is redirected to the page “Photoshop + UI UX 2.0”|
 |Click on the bottom “Lifetime access” and “At once” ||The buttons are labeled.|
@@ -182,7 +182,7 @@ meni ovo skoro kao prethodni kejs
 
 |Steps:|Test data:|Expected result:|
 | :- | :- | :- |
-|Navigate to the “Nauci dizajin” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
+|Navigate to the “Nauci dizajn” home page|https://www.naucidizajn.com/|The user is redirected to the page.|
 |Click on the navigation menu ”Mentorstvo”.||The user is redirected to the page “Mentrostvo”.|
 |Scroll down to the section titled “Nisi siguran odakle da počneš?”.||The section is clearly visible.|
 |Click on the button “Popuni upitnik”.||A questionnaire dialog opens.|
