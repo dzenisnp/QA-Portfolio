@@ -1,12 +1,12 @@
 ﻿**Test Run Report** 
 
-` `**[www.naucidizajin.com](http://www.naucidizajin.com)** 
+` `**[www.naucidizajn.com](http://www.naucidizajn.com)** 
 
 ` `**Home Page**
 
 Project information:
 
-**Project name: [www.naucidizajin.com](http://www.naucidizajin.com)**
+**Project name: [www.naucidizajn.com](http://www.naucidizajn.com)**
 
 **The team assigned:** Dzenis Selmanovic, QA member
 
