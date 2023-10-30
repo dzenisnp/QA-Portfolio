@@ -1,10 +1,10 @@
 # QA-Portfolio - www.naucidizajn.com
 
-Welcome to my GitHub portfolio! Here, you'll find information about my work on the www.naucidizajin.com project, specifically focusing on the Home Page section.
+Welcome to my GitHub portfolio! Here, you'll find information about my work on the www.naucidizajn.com project, specifically focusing on the Home Page section.
 
 ## Project
 
-The www.naucidizajin.com project is an online resource for learning design. My role in this project was primarily centered around the Home Page section. Here's a summary of my contributions to the project, along with additional tasks:
+The www.naucidizajn.com project is an online resource for learning design. My role in this project was primarily centered around the Home Page section. Here's a summary of my contributions to the project, along with additional tasks:
 
 - Development and testing of the Home Page section.
 - Writing test case.
