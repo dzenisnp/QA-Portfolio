@@ -1,5 +1,5 @@
 ﻿Spremno za git
-**Dzenis Selmanovic - www.naucidizajin.com - Home Page**
+**Dzenis Selmanovic - www.naucidizajn.com - Home Page**
 
 **Bug 1**
 
@@ -9,7 +9,7 @@ Description: The logo image in the center of the image in the Slack group is not
 
 Steps to reproduce: 
 
-1. Go to the page: [www.naucidizajin.com](http://www.naucidizajin.com)
+1. Go to the page: [www.naucidizajn.com](http://www.naucidizajn.com)
 1. Scroll down to the Slack group
 
 Actual result: The images are of decent size, but the central image with the logo is not nicely cropped
@@ -40,7 +40,7 @@ Description: The background of the satisfied users section extends beyond the pa
 
 Steps to reproduce: 
 
-1. Go to the page: [www.naucidizajin.com](http://www.naucidizajin.com)
+1. Go to the page: [www.naucidizajn.com](http://www.naucidizajn.com)
 1. Scroll down to the section satisfied users.
 
 Actual result: The container goes outside the page frame and creates too much space. Also, the comment is not nicely centered.
@@ -67,7 +67,7 @@ Description: When scrolling down 2-3 times, the title and the Navigation menu ov
 
 Steps to reproduce: 
 
-1 . Go to the page: [www.naucidizajin.com](http://www.naucidizajin.com)
+1 . Go to the page: [www.naucidizajn.com](http://www.naucidizajn.com)
 
 2\. Scroll down with the mouse cursor 2-3 times.
 
@@ -108,7 +108,7 @@ Description: The size of the images is not the same, an unnecessary empty space 
 
 Steps to reproduce: 
 
-1. Go to the page: [www.naucidizajin.com](http://www.naucidizajin.com)
+1. Go to the page: [www.naucidizajn.com](http://www.naucidizajn.com)
 1. Scroll down to the section side scroll Blog.
 1. Actual result: The size of the images is not the same and the ‘Read’ button is out of line. The images are not the same size, therefore the Read button is not in line.
 
